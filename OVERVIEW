@@ -1,0 +1,16 @@
+Overview of Tasks
+
+This project involved performing three main database administration tasks using Oracle Database and Oracle Enterprise Manager (OEM).
+
+Task 1 – Create a New Pluggable Database (PDB):
+A new pluggable database was created following the required naming convention:
+pa_pdb_27983. 
+A user account was also created with the format FirstName_plsqlauca_<StudentID> and a simple password. This user account will be used to store and manage all class-related database work.
+
+Task 2 – Create and Delete a PDB:
+Another PDB was created with the name format pa_to_delete_pdb_27983.
+After confirming successful creation, this PDB was deleted. Screenshots were taken to show both the creation and deletion processes.
+
+Task 3 – Oracle Enterprise Manager (OEM):
+Oracle Enterprise Manager was configured to monitor and manage the database environment.
+A screenshot of the OEM dashboard showing the configured databases and username was captured after completing Tasks 1 and 2.
